@@ -1,0 +1,12 @@
+# Editors
+.vscode/
+.idea/
+
+# Mac/OSX
+.DS_Store
+
+# Environment
+env/
+
+# user scores text file
+userScores.txt
